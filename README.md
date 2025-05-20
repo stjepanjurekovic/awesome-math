@@ -138,6 +138,7 @@ A curated list of awesome mathematics resources.
 * [Free Mathematics Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 * [Trigonometry](http://www.mecmath.net/trig/trigbook.pdf)
 * [Math for Programmers](https://www.manning.com/books/math-for-programmers) - Paul Orland
+* [Statistics Every Programmer Needs](https://www.manning.com/books/statistics-every-programmer-needs) - Gary Sutton
 
 ## Blogs
 
